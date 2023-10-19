@@ -41,6 +41,7 @@ const LoginComponent = () => {
                   placeholder="User Email"
                   className="form-control animated fadeInUp"
                   type="email"
+                  defaultValue={"nurullah7733@gmail.com"}
                 />
                 <br />
                 <input
@@ -48,6 +49,7 @@ const LoginComponent = () => {
                   placeholder="User Password"
                   className="form-control animated fadeInUp"
                   type="password"
+                  defaultValue={"1234"}
                 />
                 <br />
                 <button

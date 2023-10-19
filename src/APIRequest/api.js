@@ -14,7 +14,7 @@ import {
 import { setSummary } from "../features/summaryTask/summaryTaskSlice";
 import { setProfileValue } from "../features/profile/profileSlice";
 
-let baseUrl = "https://task-manager-mern.onrender.com";
+let baseUrl = "https://task-manager-mern.cyclic.app";
 const AxiosHeader = { headers: { token: getToken() } };
 
 // Account recover step 03
