@@ -41,6 +41,7 @@ const LoginComponent = () => {
                   placeholder="User Email"
                   className="form-control animated fadeInUp"
                   type="email"
+                  value={"nurullah7733@gmail.com"}
                 />
                 <br />
                 <input
@@ -48,6 +49,7 @@ const LoginComponent = () => {
                   placeholder="User Password"
                   className="form-control animated fadeInUp"
                   type="password"
+                  value={"nnnnn"}
                 />
                 <br />
                 <button
